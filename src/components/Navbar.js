@@ -9,7 +9,7 @@ const Navbar = () => {
             </div>
             { /* Store name */}
             <div className=" text-[#d1d1d1] font-semibold text-[30px]">
-            <p>Store</p>
+            <a href="/">Store</a>
             </div>
 
             { /* Nav links */}
