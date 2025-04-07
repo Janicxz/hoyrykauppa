@@ -24,7 +24,7 @@ const Navbar = () => {
 
             { /* Right side items */}
             <div className="hidden lg:flex items-center gap-2 absolute right-20 top-1 text-[#d1d1d1] text-[12px] ">
-                <a href="/download" className="flex  items-center gap-1 bg-[#208629] border-black border-1 py-1 px-2">
+                <a href="/download" className="flex  items-center gap-1 bg-[#208629] hover:bg-[#34a73d] hover:transition border-black border-1 py-1 px-2">
                     <FaDownload />
                     <p>Download client</p>
                 </a>
