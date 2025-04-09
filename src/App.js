@@ -2,6 +2,7 @@ import './App.css';
 import Navbar from './components/Navbar';
 import Categories from './components/Categories';
 import Footer from './components/Footer';
+import Recommended from './components/Recommended';
 
 function App() {
   return (
@@ -9,7 +10,7 @@ function App() {
       <Navbar />
       { /*Categories*/}
       <Categories />
-      { /*Recommended*/}
+      <Recommended />
       { /*SpecialOffers*/}
       { /*Browse*/}
       { /*Footer*/}
