@@ -4,7 +4,7 @@ const Recommended = () => {
             <p>RECOMMENDED</p>
             <div id="recommendedCard" className="flex h-[25rem] pt-3">
                 <div id="recommendedImage" className="bg-yellow-600 w-[100%] h-full flex justify-center">
-                    <img className="w-full object-cover" alt="Product image" src="https://picsum.photos/600/400"/>
+                    <img className="w-full object-cover" alt="Screenshot of the product" src="https://picsum.photos/600/400"/>
                 </div>
                 <div id="recommendedDesc" className="bg-red-700 w-[60%] h-full hidden md:flex flex-col">
                     <p id="currentTitle" className="p-5">Title</p>
